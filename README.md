@@ -1,1 +1,1 @@
-PedoCok
+#Competitive Pedometer
