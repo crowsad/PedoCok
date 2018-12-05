@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065469513799",
+    "firebase_url": "https://pedocok.firebaseio.com",
+    "project_id": "pedocok",
+    "storage_bucket": "pedocok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065469513799:android:cd84ca3e21e52589",
+        "android_client_info": {
+          "package_name": "com.github.gist.pedocok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065469513799-4ukaf5mcbsmh3patdntm4dpe4362mp89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.gist.pedocok",
+            "certificate_hash": "54b2a3b3a2e7434f5d4c660755b484f714e388b6"
+          }
+        },
+        {
+          "client_id": "1065469513799-rse1gircm35de9lla68sqdpfjqk26b15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqai7Vke1SJAqeeVPGwMQbbt_FCvvqB8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065469513799-rse1gircm35de9lla68sqdpfjqk26b15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
